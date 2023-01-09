@@ -24,6 +24,7 @@ const manifest: chrome.runtime.ManifestV3 = {
       matches: ['*://*/*'],
     },
   ],
+  key: 'MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnk8Cu62kkbYmb5VQRSSqlFvKrGW1IrlkFr2pHPBsgQP9bfDy62a20xBdewEfIz7PsXrGZpI7LcV36lAFNTpDi35UJqMFyYW3JQoqCKiFhRxSxOxO3mYTEZZ9mNw2nG9FyH86ewwAPSW5j6k+4COD0lfi7VAJP6CB02j9mHyS4LEhgXFVCO7tC82Dz62qK5RR3/1rdibQ9bcK5dpqte7j04eUULx1/0Cj9jN4JkNkVes2m+2r2UxVAauqf8EKF0ncK+TLkKuYXST3brOxfIhWru3ZGh++7d9i1RPHqCpIdLZNQ6OvFJmW8ul/IBXp34SbDPRU7jQd/QmoW03yNhLawQIDAQAB',
 }
 
 export default manifest
